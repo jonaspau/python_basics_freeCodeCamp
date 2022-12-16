@@ -1,4 +1,6 @@
+# Collect input from use, convert it to integer
 number = int(input("Enter Number: "))
+# Display number and type
 print(number)
 print(type(number))
 
